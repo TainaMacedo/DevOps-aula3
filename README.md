@@ -1,4 +1,4 @@
 # Ferramentas de controle de versão
-#GitLab
+#Git
 #SubVersion
 #CVS
